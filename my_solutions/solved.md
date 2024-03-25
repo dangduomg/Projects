@@ -1,3 +1,3 @@
 # problems i solved:
 
-- Fibonacci Sequence - fib: python
+- Fibonacci Sequence - `fib`: python, js
